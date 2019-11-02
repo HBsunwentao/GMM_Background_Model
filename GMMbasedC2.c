@@ -1,12 +1,12 @@
 /*
 简单的高斯背景模型
 作者：厦门大学2019级硕士 孙文涛
-Github网址：
+Github网址：https://github.com/HBsunwentao/GMM_Background_Model.git
 翻版必究
 
 A SIMPLE GAUSSION BACKGROUND MODEL TO DETECT THE FROEGROUND
 Author:Wentao Sun
-github:
+github:https://github.com/HBsunwentao/GMM_Background_Model.git
 */
 #include <stdio.h>
 #include<stdlib.h>
